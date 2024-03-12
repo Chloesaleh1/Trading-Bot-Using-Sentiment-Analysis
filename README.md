@@ -1,2 +1,4 @@
 # Trading-Bot-Using-Sentiment-Analysis
 Harnessing Sentiment Analysis for Automated Trading on Alpaca Broker
+
+This project introduces a trading bot developed to operate on the Alpaca brokerage platform. The bot makes strategic use of position sizing to optimize the quantity of each order and implements stop loss and take profit limits to define the conditions under which securities are bought or sold. Furthermore, the bot leverages natural language processing techniques to extract and analyze financial news, employing the FinBERT model to gauge market sentiment and to determines the most opportune moments to execute trades. To backtest the bot and evaluate its performance, historical market data from Yahoo Finance will be utilized to assess the effectiveness of the trading strategies implemented.
