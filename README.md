@@ -7,8 +7,8 @@ Furthermore, the bot leverages natural language processing techniques to extract
 
 ## Run the Bot:
 
-1. Create a virtual environment '''conda create -n trader python=3.10'''
-2. Activate it '''conda activate trader'''
-3. Install all dependencies '''pip install -r requirements.txt'''
-4. Update the '''API_KEY''' and '''API_SECRET''' with values from your Alpaca account
-5. Run the bot '''python Trading_Bot.py'''
+1. Create a virtual environment ```conda create -n trader python=3.10```
+2. Activate it ```conda activate trader```
+3. Install all dependencies ```pip install -r requirements.txt```
+4. Update the ```API_KEY``` and ```API_SECRET``` with values from your Alpaca account
+5. Run the bot ```python Trading_Bot.py```
