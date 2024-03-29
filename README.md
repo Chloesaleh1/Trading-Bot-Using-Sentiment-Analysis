@@ -15,9 +15,9 @@ Furthermore, the bot leverages natural language processing techniques to extract
 
 ## Setup Paper Trading Account:
 
-If you do not already have a trading account (whether paper or not), here are the steps to get started with one:
+Anyone globally can create an Alpaca Paper Only Account! All you need to do is sign up with your email address. If you do not already have an Alpaca trading account (whether paper or not), here are the steps to get started with one:
 
-1. **Sign Up for an Alpaca Account**: Visit the Alpaca website and sign up for an account. During the sign-up process, you will be given the option to choose between a live trading account or a paper trading account. Select the paper trading option, which will allow you to trade with simulated money and test your strategies without financial risk.
+1. **Sign Up for an Alpaca Account**: Visit the Alpaca website and sign up for a paper trading account (https://alpaca.markets). During the sign-up process, you will be given the option to choose between a live trading account or a paper trading account. Select the paper trading option, which will allow you to trade with simulated money and test your strategies without financial risk.
 
 2. **Complete the Registration**: Fill in all the required details in the registration form, including your email address, password, and any necessary personal information. After submitting the form, you'll need to verify your email address by clicking on the verification link sent to your email.
 
