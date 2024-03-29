@@ -12,3 +12,21 @@ Furthermore, the bot leverages natural language processing techniques to extract
 3. Install all dependencies ```pip install -r requirements.txt```
 4. Update the ```API_KEY``` and ```API_SECRET``` with values from your Alpaca account
 5. Run the bot ```python Trading_Bot.py```
+
+## Setup Paper Trading Account:
+
+If you do not already have a trading account (whether paper or not), here are the steps to get started with one:
+
+1. *Sign Up for an Alpaca Account*: Visit the Alpaca website and sign up for an account. During the sign-up process, you will be given the option to choose between a live trading account or a paper trading account. Select the paper trading option, which will allow you to trade with simulated money and test your strategies without financial risk.
+
+2. *Complete the Registration*: Fill in all the required details in the registration form, including your email address, password, and any necessary personal information. After submitting the form, you'll need to verify your email address by clicking on the verification link sent to your email.
+
+3. *Access the Paper Trading Dashboard*: Once your account is set up and you're logged in, navigate to the paper trading dashboard.
+
+4. *Obtain Your API Key and Secret*: Look for a section in the dashboard related to API keys, often found in the account settings or configuration menu. Generate a new API key and secret from this section. Be sure to save both the API key and the secret in a secure place, as the API secret will not be shown again.
+
+Your initial paper trading account is created with $100k balance as a default setting. You can reset the paper trading account at any time later with arbitrary amount as you configure.
+
+## Documentation:
+
+Alpaca Paper Trading Account: https://docs.alpaca.markets/docs/paper-trading
