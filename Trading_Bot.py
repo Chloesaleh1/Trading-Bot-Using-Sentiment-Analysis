@@ -16,9 +16,9 @@ from timedelta import Timedelta
 from finbert_utils import estimate_sentiment
 
 # Creating environment for Alpaca broker
-API_KEY = "PKRK1W9A38BIQ8VMYHSL"
-API_SECRET = "SDgGFKJUcOhia9CX4KDzTBBhvoW3NxekXkywjmej"
-BASE_URL = "https://paper-api.alpaca.markets"
+API_KEY = ""
+API_SECRET = ""
+BASE_URL = ""
 
 ALPACA_CREDS = {
     "API_KEY":API_KEY, 
